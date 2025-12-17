@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Raghav Rana</h1>
 <!--
 **Raghav200471/Raghav200471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
